@@ -1,0 +1,31 @@
+/* 全体 */
+body {
+    font-size: 6em;
+    text-align: center;
+}
+
+/* タイマー */
+.count {
+    margin: 0;
+    font-weight: bold;
+    color: #888;
+}
+
+/* テキスト部分 */
+.wrap {
+    margin-top: 20px;
+    padding: 80px 40px;
+    background-color: #666;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* 正しいテキスト */
+.typed {
+    color: lightgreen;
+}
+
+/* 間違えたテキスト */
+.mistyped {
+    background-color: red;
+}
